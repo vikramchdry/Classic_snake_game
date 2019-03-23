@@ -2,9 +2,12 @@
 
 
 To run this game you need only few things:
+
 Pygame
+
 python3
 
 
-To Execute games
+To Execute game
+
 rungame.py
